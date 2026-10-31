@@ -64,5 +64,155 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sendmux-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sendmux.ai/
+Sendmux AI provides an Email API designed for AI agents, offering unified endpoints to send and receive emails, manage calendars, and store files. The platform includes inboxes for agents, developer tools, SDKs, and a CLI, enabling seamless integration of email capabilities into AI-driven applications across various use cases such as customer support, sales outreach, and scheduling.
+
+**Areas:** Company · Email · AI · Agents · Integration
+
+## sendmux-ai on APIs.io
+
+Everything profiled for sendmux-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sendmux-ai/](https://apis.io/providers/sendmux-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [sendmux-ai Billing API](https://apis.io/apis/sendmux-ai/sendmux-ai-billing-api/) — The Billing API from sendmux-ai — 3 operation(s) for billing.
+- [sendmux-ai Connection API](https://apis.io/apis/sendmux-ai/sendmux-ai-connection-api/) — The Connection API from sendmux-ai — 1 operation(s) for connection.
+- [sendmux-ai Domain Filters API](https://apis.io/apis/sendmux-ai/sendmux-ai-domain-filters-api/) — The Domain Filters API from sendmux-ai — 1 operation(s) for domain filters.
+- [sendmux-ai Domains API](https://apis.io/apis/sendmux-ai/sendmux-ai-domains-api/) — The Domains API from sendmux-ai — 4 operation(s) for domains.
+- [sendmux-ai Emails API](https://apis.io/apis/sendmux-ai/sendmux-ai-emails-api/) — The Emails API from sendmux-ai — 3 operation(s) for emails.
+- [sendmux-ai Inboxes API](https://apis.io/apis/sendmux-ai/sendmux-ai-inboxes-api/) — The Inboxes API from sendmux-ai — 2 operation(s) for inboxes.
+- [sendmux-ai Mailbox API](https://apis.io/apis/sendmux-ai/sendmux-ai-mailbox-api-api/) — The Mailbox API API from sendmux-ai — 48 operation(s) for mailbox api.
+- [sendmux-ai Mailbox Filters API](https://apis.io/apis/sendmux-ai/sendmux-ai-mailbox-filters-api/) — The Mailbox Filters API from sendmux-ai — 1 operation(s) for mailbox filters.
+- [sendmux-ai Mailboxes API](https://apis.io/apis/sendmux-ai/sendmux-ai-mailboxes-api/) — The Mailboxes API from sendmux-ai — 9 operation(s) for mailboxes.
+- [sendmux-ai Sending accounts API](https://apis.io/apis/sendmux-ai/sendmux-ai-sending-accounts-api/) — The Sending accounts API from sendmux-ai — 11 operation(s) for sending accounts.
+- [sendmux-ai Webhooks API](https://apis.io/apis/sendmux-ai/sendmux-ai-webhooks-api/) — The Webhooks API from sendmux-ai — 6 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Sendmux Ai Webhooks](https://apis.io/asyncapis/sendmux-ai/sendmux-ai-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Sendmux Ai Agentic Access](https://apis.io/agentic-access/sendmux-ai/sendmux-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CreateCalendarEventBody](https://apis.io/schemas/sendmux-ai/sendmux-ai-create-calendar-event-body/)
+- [CreateMailboxDraft](https://apis.io/schemas/sendmux-ai/sendmux-ai-create-mailbox-draft/)
+- [ProviderCreateBody](https://apis.io/schemas/sendmux-ai/sendmux-ai-provider-create-body/)
+- [ProviderUpdateBody](https://apis.io/schemas/sendmux-ai/sendmux-ai-provider-update-body/)
+- [SendMailboxMessageBody](https://apis.io/schemas/sendmux-ai/sendmux-ai-send-mailbox-message-body/)
+- [UpdateMailboxDraft](https://apis.io/schemas/sendmux-ai/sendmux-ai-update-mailbox-draft/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sendmux Ai Context](https://apis.io/jsonld/sendmux-ai/sendmux-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [sendmux-ai API Rules](https://apis.io/rules/sendmux-ai/sendmux-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sendmux Ai Authentication](https://apis.io/security/sendmux-ai/sendmux-ai-authentication/)
+- [Sendmux Ai Domain Security](https://apis.io/security/sendmux-ai/sendmux-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Sendmux Ai Scopes](https://apis.io/scopes/sendmux-ai/sendmux-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sendmux Ai Plans Pricing](https://apis.io/plans/sendmux-ai/sendmux-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sendmux.ai/)
+- [Documentation](https://sendmux.ai/docs)
+- [Getting started](https://sendmux.ai/docs/getting-started/quickstart)
+- [API reference](https://sendmux.ai/docs/api/introduction)
+- [Pricing](https://sendmux.ai/pricing/)
+- [Sign up](https://app.sendmux.ai/sign-up)
+- [Support](https://sendmux.ai/contact)
+- [Changelog](https://sendmux.ai/docs/changelog)
+- [Blog](https://sendmux.ai/blog/)
+- [Terms of service](https://sendmux.ai/terms/)
+- [Privacy policy](https://sendmux.ai/privacy/)
+- [GitHub](https://github.com/Sendmux)
+- [Status](https://status.sendmux.ai/)
+
+## API Evangelist rating
+
+**Kin Score 72.8** — exemplar · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 68.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 44.7 |
+| Developer ergonomics | 82.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 77.3** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sendmux-ai/](https://apis.io/providers/sendmux-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for sendmux-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sendmux-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
